@@ -5,8 +5,8 @@ body{
 
    display: grid;
    place-items: center;
-   position: relative;
-   top: 200px ;
+   margin-top: 115px;
+   margin-bottom: 115px;
 }
 .child{
     border-radius: 5px; 
